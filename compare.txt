@@ -37,7 +37,7 @@ Array
             [date_upd] => 2019-06-25 17:50:42
             [id_lang] => 1
             [name] => leaves
-            [id_cart] => 419810
+            [id_cart] => 419811
         )
 
 )
